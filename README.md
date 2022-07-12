@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cronomus01/product-preview-card)
-- Live Site URL: [Add live site URL here](https://cronomus01.github.io/product-preview-card/)
+- Solution URL: [My Solution](https://github.com/cronomus01/product-preview-card)
+- Live Site URL: [Live Site](https://cronomus01.github.io/product-preview-card/)
 
 ## My process
 
