@@ -245,6 +245,8 @@ body {
         button {
             width: 100%;
             display: block flex;
+            justify-content: center;
+            align-items: center;
             padding-block: 1rem;
             border-radius: 0.5rem;
             outline: none;
