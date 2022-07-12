@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cronomus01/product-preview-card)
+- Live Site URL: [Add live site URL here](https://cronomus01.github.io/product-preview-card/)
 
 ## My process
 
@@ -90,5 +90,4 @@ I want to focus on background images techniques to fit it on the container dynam
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@cronomus01](https://www.frontendmentor.io/profile/cronomus01)
