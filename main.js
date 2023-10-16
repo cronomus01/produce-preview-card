@@ -1,1 +1,3 @@
-import './style.scss'
+import '@/assets/scss/style.scss';
+
+console.log('test');

@@ -139,7 +139,7 @@ body {
 
     &__img {
         display: block;
-        background: url(./images/image-product-mobile.jpg);
+        background: url('@/assets/images/image-product-mobile.jpg');
         background-repeat: no-repeat;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
@@ -147,7 +147,7 @@ body {
         padding: 9.375rem;
         @include desktop {
             flex-basis: 350px;
-            background: url(./images/image-product-desktop.jpg);
+            background: url('@/assets/images/image-product-desktop.jpg');
             background-size: cover;
             border-bottom-left-radius: 10px;
             border-top-right-radius: 0;
