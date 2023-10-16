@@ -20,12 +20,4 @@ export default defineConfig({
         origin: false
     }
   },
-  preview: {
-    host: 'localhost',
-    port: 5173,
-    strictPort: true,
-    cors: {
-       origin: ['localhost:3000']
-    }
-  },
 })
